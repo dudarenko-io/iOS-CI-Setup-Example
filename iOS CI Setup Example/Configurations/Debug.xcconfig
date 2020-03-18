@@ -1,0 +1,12 @@
+//
+//  Debug.xcconfig
+//  iOS CI Setup Example
+//
+//  Created by Dudarenko Ilya on 18.03.2020.
+//  Copyright © 2020 Dudarenko.io. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_BASE_URL = 'debug.example.com'
