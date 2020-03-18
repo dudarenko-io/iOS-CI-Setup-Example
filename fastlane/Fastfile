@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+desc 'Build debug scheme for testing'
+lane :build_for_testing do
+  scan(
+    scheme: 'Debug',
+    build_for_testing: true
+  )
+end
