@@ -1,5 +1,7 @@
 # iOS CI Setup Example
 
+[![Build Status](https://travis-ci.com/Statusgman/iOS-CI-Setup-Example.svg?branch=master)](https://travis-ci.com/Statusgman/iOS-CI-Setup-Example)
+
 - Xcode project setup with custom configurations
 - fastlane setup
 - Travis.CI setup
