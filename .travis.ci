@@ -1,5 +1,8 @@
 language: swift
 osx_image: xcode11.3
+before_install:
+  - yes | gem update --system --force
+  - gem install bundler
 install:
   - bundle install
 script:
